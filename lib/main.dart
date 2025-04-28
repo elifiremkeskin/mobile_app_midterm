@@ -1,3 +1,9 @@
+//Erciyes Üniversitesi
+//Mühendislik Fakültesi
+//Bilgisayar Mühendisliği
+//Fehim Köylü tarafından verilen Mobile Application Developement dersi vize ödevidir
+//Elif İrem Keskin - 1030510558
+
 import 'package:flutter/material.dart';
 
 void main() {
