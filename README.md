@@ -22,7 +22,7 @@ Bilgisayar Mühendisliği
 - [Stack ve Positioned Birlikte Kullanımı](#stack-ve-positioned-birlikte-kullanımı)
 - [Stack Özellikleri](#stack-özellikleri)
 - [Positioned Özellikleri](#positioned-özellikleri)
-- [Proje Kodu Açıklaması](#proje-kodu-açıklaması)
+- [Profil Kartı Ödevi Açıklaması](#profil-kartı-ödevi-açıklaması)
 - [Sonuç](#sonuç)
 
 ## Giriş
@@ -149,7 +149,19 @@ Stack(
 
 ---
 
-## Proje Kodu Açıklaması
+## Profil Kartı Ödevi Açıklaması
+
+Hazırladığım kodda, Stack ve Positioned kullanılarak bir profil kartı tasarlanmıştır:
+
+- Beyaz arka plana sahip bir kart çizilir.
+- Kartın içine isim ve meslek bilgisi eklenir.
+- Kartın üst kısmında, hafif dışarı taşacak şekilde bir profil fotoğrafı yerleştirilir.
+- Tasarımda gölge ve kenar yumuşatma efektleri uygulanarak daha estetik bir görünüm elde edilmiştir.
+
+### Kullanılan Önemli Yapılar:
+- **Stack**: Kart ve profil fotoğrafını üst üste yerleştirmek için kullanıldı.
+- **Positioned**: Profil fotoğrafının tam olarak kartın üst kenarına taşacak şekilde konumlandırılması sağlandı.
+- **Container**, **CircleAvatar** ve **Column** widget'ları ile içerik düzenlendi.
 
 ---
 
