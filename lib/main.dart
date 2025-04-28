@@ -50,14 +50,14 @@ class ProfileCard extends StatelessWidget {
             children: const [
               SizedBox(height: 20), // profil fotoğrafı için boşluk
               Text(
-                'Ahmet Yılmaz',
+                'Elif İrem Keskin',
                 style: TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
                 ),
               ),
               Text(
-                'Mobil Geliştirici',
+                'Bilgisayar Mühendisi',
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.grey,
