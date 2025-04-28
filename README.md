@@ -163,6 +163,10 @@ Hazırladığım kodda, Stack ve Positioned kullanılarak bir profil kartı tasa
 - **Positioned**: Profil fotoğrafının tam olarak kartın üst kenarına taşacak şekilde konumlandırılması sağlandı.
 - **Container**, **CircleAvatar** ve **Column** widget'ları ile içerik düzenlendi.
 
+Uygulama şu şekilde görünecektir:
+
+![Profil Kartı Örneği](assets/proje_ciktisi.jpg)
+
 ---
 
 ## Sonuç
